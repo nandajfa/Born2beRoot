@@ -2,7 +2,7 @@
 	42cursus' Born2beRoot
 </h1>
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/libft_42/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/Born2beRoot/blob/main/LICENSE)
 
 
 <p align="center">
