@@ -22,7 +22,7 @@ your own operating system while implementing strict rules._
 This project also covered the basics of criptography, networking, hard disk partitioning, and shell scripting (lots of output formatting!)
 
 	
-| Command | Description |
+| Comando | Descrição |
 | --- | --- |
 | `lsblk` |  mostrar as partições |
 | `sudo aa-status` | mostrar os status do *AppArmor* |
