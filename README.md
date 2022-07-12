@@ -50,6 +50,6 @@ This project also covered the basics of criptography, networking, hard disk part
 | `exit` ou `logout` |  terminar conexão do seu computador com a VM |
 | `sudo crontab -e` |  editar o arquivo CRON |
 	
-  ## Autor
+  ## Author
 
 Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-alves-marques-106651205/)
