@@ -1,10 +1,13 @@
 <h1 align="center">
-	42cursus' Born2beRoot
+	<img alt="badge born" src="./born2beroot_dark.svg" />
 </h1>
+
+<div align="center">
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandajfa/Born2beRoot/blob/main/LICENSE)
 
-
+ </div>
+ 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/appinha/42cursus-00-Libft?color=blueviolet" />
 
@@ -50,6 +53,10 @@ This project also covered the basics of criptography, networking, hard disk part
 | `exit` ou `logout` |  terminar conexão do seu computador com a VM |
 | `sudo crontab -e` |  editar o arquivo CRON |
 	
-  ## Author
+ ## Author
 
-Made by jessica Fernanda 👋 [See my linkedin](https://www.linkedin.com/in/jessica-fernanda-106651205)
+ | [<img src="https://avatars.githubusercontent.com/u/80687429?v=4" width=115><br><sub>Jessica Fernanda</sub>](https://github.com/nandajfa) |
+ | :---: |
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-fernanda-106651205)](https://www.linkedin.com/in/jessica-fernanda-106651205) 
+[![Gmail Badge](https://img.shields.io/badge/-nanda.jfa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
