@@ -58,5 +58,5 @@ This project also covered the basics of criptography, networking, hard disk part
  | [<img src="https://avatars.githubusercontent.com/u/80687429?v=4" width=115><br><sub>Jessica Fernanda</sub>](https://github.com/nandajfa) |
  | :---: |
  
- [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-fernanda-106651205)](https://www.linkedin.com/in/jessica-fernanda-106651205) 
+  [![Linkedin Badge](https://img.shields.io/badge/-Jessica-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[https://www.linkedin.com/in/jessica-fernanda-programadora/](https://www.linkedin.com/in/jessica-fernanda-programadora/))](https://www.linkedin.com/in/jessica-fernanda-programadora/)
 [![Gmail Badge](https://img.shields.io/badge/-nanda.jfa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nanda.jfa@gmail.com)](mailto:nanda.jfa@gmail.com)
